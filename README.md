@@ -33,5 +33,5 @@ Olá, Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=footer"/>
 </p>
