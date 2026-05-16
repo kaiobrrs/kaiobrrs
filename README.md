@@ -4,7 +4,7 @@
 <p align="left">
   <code>Desenvolvedor Full-Stack</code>
 </p>  
-  
+ 
 Olá, Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí o ensino médio na ETE, com o curso técnico em redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Apaixonado por tecnologia desde pequeno e sempre adquirindo conhecimento como desenvolvedor.
   
 ---
