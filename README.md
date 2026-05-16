@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá, eu sou Kaio Barros 👋</h1>
+<h1 align="left">Kaio Barros</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -14,7 +14,7 @@
   
   
  <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nodejs,mysql,git" />
 </p> 
   
 <p align="center">
