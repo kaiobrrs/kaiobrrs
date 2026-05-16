@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header"/>
-<h1 align="left">Kaio Barros</h1>
-<p align="left">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&animation=fadeIn"/>
+<h1 align="left">Kaio Barros</h1><p 
+align="left">
   <code>Desenvolvedor Full-Stack</code>
 </p>  
- 
 Olá, Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí o ensino médio na ETE, com o curso técnico em redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Apaixonado por tecnologia desde pequeno e sempre adquirindo conhecimento como desenvolvedor.
   
 ---
@@ -26,9 +26,7 @@ Olá, Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí
 <a href="mailto:kaiobrrrs2008@gmail.com">
 <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
 </a>
-
 </p>
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=footer"/>
 </p>
