@@ -1,4 +1,4 @@
-# Olá, eu sou Kaio 👋
+<h1 align="center"> Olá, eu sou Kaio 👋 </h1>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Interessado em desenvolvimento backend, banco de dados e desenvolvimento web  
