@@ -1,5 +1,4 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header"/>
 <h1 align="left">Kaio Barros</h1>
 <p align="left">
   <code>Desenvolvedor Full-Stack</code>
