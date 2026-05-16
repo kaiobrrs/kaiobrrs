@@ -13,7 +13,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nodejs,mysql,git" />
 </p>
 
----
 ## Redes Sociais  
 <p align="left">
 
