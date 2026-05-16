@@ -7,10 +7,14 @@
   
   Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí o ensino médio na ETE, com o curso técnico em redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Apaixonado por tecnologia desde pequeno e sempre adquirindo conhecimento como desenvolvedor.
   
+---
+## 🚀 Tecnologias  
  <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nodejs,mysql,git" />
-</p> 
-  
+</p>
+
+---
+## Redes Sociais  
 <p align="left">
 
 <a href="https://linkedin.com/in/kaio-barros">
