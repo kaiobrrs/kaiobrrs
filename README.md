@@ -1,4 +1,6 @@
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&animation=fadeIn"/>
+</p>
 
 <h1 align="left">Kaio Barros</h1>
 <p align="left">
@@ -28,4 +30,8 @@ Olá, Me chamo Kaio Barros Santiago, tenho 17 anos e sou de pernambuco. Concluí
 <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
 </a>
 
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=header&animation=fadeIn"/>
 </p>
